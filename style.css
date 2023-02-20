@@ -1,0 +1,13 @@
+
+.container1{
+border: dotted rgb(65, 8, 65);
+
+}
+.text{
+border: solid rgb(219, 103, 88);
+padding: 20px;
+margin: 5%;
+text-align: center;
+font-size: x-large;
+font-style: italic;
+}
